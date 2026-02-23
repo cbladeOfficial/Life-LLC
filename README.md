@@ -1,2 +1,2 @@
-# Life-LLC
+# Life LLC
 Discord minigame
